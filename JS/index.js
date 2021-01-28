@@ -1,5 +1,5 @@
 var nome ="Jonata Ramos" // RESPONSÁVEL POR ALTERAR NOME E CARGO, RESPECTIVAMENTE //
-var cargo ="Desenvolvedor"
+var cargo ="Developer"
 
 // ESSE TRECHO DE COD. ESTAMOS PEGANDO ELEMENTOS DO HTML // 
 var nomeHtml = document.getElementById("nome-no-html");
