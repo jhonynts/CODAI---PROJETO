@@ -1,4 +1,4 @@
-var nome ="Jonata Ramos" // RESPONSÁVEL POR ALTERAR NOME E CARGO, RESPECTIVAMENTE //
+var nome ="Jonata Ramos da Silva" // RESPONSÁVEL POR ALTERAR NOME E CARGO, RESPECTIVAMENTE //
 var cargo ="Desenvolvedor"
 
 // ESSE TRECHO DE COD. ESTAMOS PEGANDO ELEMENTOS DO HTML // 
